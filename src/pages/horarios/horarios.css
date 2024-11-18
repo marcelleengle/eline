@@ -1,0 +1,9 @@
+.marked{
+    font-weight: bold;
+    text-align: right;
+    padding-right: 6px;
+}
+
+.info {
+    text-align: left;
+}
