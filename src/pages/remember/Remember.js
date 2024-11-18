@@ -16,9 +16,9 @@ function Remember() {
         <p>Isso sem contar as plantas</p>
         <p>Um sagitariana paz e amor, good vibes, até tirarem ela do sério... Mexe com ela pra tu ver se tu não leva uma patada bem dada.</p>
         <p>Mãe de dois filhos (humanos) e casada com Andre, uma cozinheira de mão cheia, tudo que faz fica bom.</p>
-        <p>Sem contar as habilidades pra artesanato que a gata contruiu ao longo dos anos</p>
+        <p>Sem contar as habilidades pra artesanato que a gata construiu ao longo dos anos</p>
         <p>Amante de café, meio esquecida as vezes (pode ser que ela esqueça de puxar o freio de mão do carro), pilateira. Não queira nunca vê-la com fome!</p>
-        <p>Enfim... ta aí um pouco da nossa aniversariante!</p>
+        <p>Enfim... está aí um pouco da nossa aniversariante!</p>
       </div>
     </>
   );
